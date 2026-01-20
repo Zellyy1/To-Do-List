@@ -5,13 +5,21 @@ A fully-featured To-Do List application implemented in Java using a **Doubly Lin
 ## Features
 
 ✅ Add tasks at the end or beginning of the list
+
 ✅ Mark tasks as completed
+
 ✅ Delete tasks by position
+
 ✅ View all tasks (forward and reverse)
+
 ✅ Filter completed and pending tasks
+
 ✅ Search tasks by keyword
+
 ✅ Priority levels (High, Medium, Low)
+
 ✅ Timestamp tracking for each task
+
 ✅ Clear all tasks functionality
 
 ## Project Structure
